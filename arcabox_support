@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcabox - Technical Support</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #0078D7;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            text-align: center;
+            color: #0078D7;
+        }
+        p {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background: #0078D7;
+            color: white;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Arcabox Technical Support</h1>
+    </header>
+    <div class="container">
+        <h2>Welcome to Arcabox Support</h2>
+        <p>Thank you for using Arcabox! We're here to help you with any technical issues or questions you may have.</p>
+        
+        <h3>Common Issues</h3>
+        <ul>
+            <li>App installation or update problems</li>
+            <li>Feature functionality queries</li>
+            <li>Performance issues</li>
+        </ul>
+        
+        <h3>Contact Us</h3>
+        <p>If you need further assistance, please feel free to contact our support team through the following methods:</p>
+        <ul>
+            <li>Email: shungyy8@gmail.com</li>
+        </ul>
+        
+        <h3>FAQ</h3>
+        <p>Visit our <a href="#faq">FAQ section</a> for answers to common questions.</p>
+    </div>
+    <footer>
+        <p>&copy; 2025 Arcabox. All rights reserved.</p>
+    </footer>
+</body>
+</html>
